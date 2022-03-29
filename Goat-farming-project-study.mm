@@ -1,4 +1,4 @@
-<map version="freeplane 1.9.8">
+<map version="freeplane 1.9.13">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <node TEXT="Goat farming project study" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_122968838" CREATED="1596139759857" MODIFIED="1596435908328" VGAP_QUANTITY="5 pt" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="2 px" BORDER_COLOR_LIKE_EDGE="false" BORDER_DASH_LIKE_EDGE="false" MAX_WIDTH="6 cm">
 <font SIZE="22"/>
@@ -69,10 +69,11 @@
 <hook NAME="AutomaticEdgeColor" COUNTER="21" RULE="ON_BRANCH_CREATION"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <edge STYLE="sharp_bezier"/>
-<node TEXT="Youtube link Agritalk" POSITION="right" ID="ID_1874891338" CREATED="1596396625629" MODIFIED="1596445828125" LINK="https://www.youtube.com/watch?v=rygyULtiIto&amp;list=PLa9-8mz1YfLw_5Sk6AuLZZ1MUDcVLcNWS">
+<node TEXT="Youtube link Agritalk" FOLDED="true" POSITION="right" ID="ID_1874891338" CREATED="1596396625629" MODIFIED="1596445828125" LINK="https://www.youtube.com/watch?v=rygyULtiIto&amp;list=PLa9-8mz1YfLw_5Sk6AuLZZ1MUDcVLcNWS">
 <edge COLOR="#00ff00"/>
+<node TEXT="More goat farming playlist" ID="ID_306433049" CREATED="1648547982120" MODIFIED="1648548002794" LINK="https://www.youtube.com/playlist?list=PLa9-8mz1YfLw_5Sk6AuLZZ1MUDcVLcNWS"/>
 </node>
-<node TEXT="Goat inventory from PSA year 2017" POSITION="right" ID="ID_31418286" CREATED="1596397558360" MODIFIED="1596397592344">
+<node TEXT="Goat inventory from PSA year 2017" FOLDED="true" POSITION="right" ID="ID_31418286" CREATED="1596397558360" MODIFIED="1596397592344">
 <edge COLOR="#00ffff"/>
 <node TEXT="2017 x 3.7 million" ID="ID_650164496" CREATED="1596397597595" MODIFIED="1596397610135"/>
 <node TEXT="2016 x 3.68 m" ID="ID_1769749180" CREATED="1596397610836" MODIFIED="1596397629279"/>
@@ -82,7 +83,7 @@
 <node TEXT="By region todo add pix link" ID="ID_1522592788" CREATED="1596397713920" MODIFIED="1596397786465"/>
 <node TEXT="By farmgate price todo add pix link" ID="ID_850188259" CREATED="1596397763819" MODIFIED="1596397777587"/>
 </node>
-<node TEXT="Uses of Goats" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_59030303" CREATED="1596397791950" MODIFIED="1596436361593" VGAP_QUANTITY="3.1 pt" BORDER_WIDTH_LIKE_EDGE="false" BORDER_DASH_LIKE_EDGE="false">
+<node TEXT="Uses of Goats" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" FOLDED="true" POSITION="right" ID="ID_59030303" CREATED="1596397791950" MODIFIED="1596436361593" VGAP_QUANTITY="3.1 pt" BORDER_WIDTH_LIKE_EDGE="false" BORDER_DASH_LIKE_EDGE="false">
 <font BOLD="false"/>
 <edge COLOR="#7c0000"/>
 <hook NAME="NodeConditionalStyles">
@@ -97,7 +98,7 @@
 <node TEXT="Organic manure supply for vermicomposting" ID="ID_147395679" CREATED="1596397847128" MODIFIED="1596397872329"/>
 <node TEXT="Add-in products e.g. lotions, soaps, bag leathers" ID="ID_1505007417" CREATED="1596397876521" MODIFIED="1596397904047"/>
 </node>
-<node TEXT="Why raise goats?" POSITION="right" ID="ID_148688967" CREATED="1596397933734" MODIFIED="1596397941106">
+<node TEXT="Why raise goats?" FOLDED="true" POSITION="right" ID="ID_148688967" CREATED="1596397933734" MODIFIED="1596397941106">
 <edge COLOR="#00007c"/>
 <node TEXT="Small initial investment" ID="ID_782805971" CREATED="1596397942499" MODIFIED="1596397958944"/>
 <node TEXT="Can integrate with crop-based farming system" ID="ID_375641789" CREATED="1596397959568" MODIFIED="1596436325043" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="3 px"/>
@@ -299,7 +300,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Starting a goat enterprise/venture" POSITION="right" ID="ID_1944051642" CREATED="1596446998698" MODIFIED="1596447016356">
+<node TEXT="Starting a goat enterprise/venture" FOLDED="true" POSITION="right" ID="ID_1944051642" CREATED="1596446998698" MODIFIED="1596447016356">
 <edge COLOR="#007c00"/>
 <node TEXT="Prepare the housing in advance" FOLDED="true" ID="ID_1950247481" CREATED="1596447027510" MODIFIED="1596447039499">
 <node TEXT="Goat pen diagram (typical)" ID="ID_105032753" CREATED="1596447044887" MODIFIED="1596447101430">
@@ -344,27 +345,14 @@
 </node>
 </node>
 </node>
-<node TEXT="Goat Costing, economics and ROI" POSITION="right" ID="ID_998985725" CREATED="1596448035526" MODIFIED="1596448057617">
+<node TEXT="Goat Costing, economics and ROI" FOLDED="true" POSITION="right" ID="ID_998985725" CREATED="1596448035526" MODIFIED="1596448057617">
 <edge COLOR="#7c007c"/>
-<node TEXT="24 month timeline" ID="ID_1322442313" CREATED="1596448062343" MODIFIED="1596448093039">
-<hook URI="../Pictures/goat-calendar.png" SIZE="0.46875" NAME="ExternalObject"/>
-</node>
-<node TEXT="Sample module 1 costing" ID="ID_25264477" CREATED="1596448122863" MODIFIED="1596448171856">
-<hook URI="../Pictures/goat-inventory.png" SIZE="0.46875" NAME="ExternalObject"/>
-</node>
-<node TEXT="Costing 2" ID="ID_752493494" CREATED="1596448223339" MODIFIED="1596448249936">
-<hook URI="../Pictures/goat-computation.png" SIZE="0.46875" NAME="ExternalObject"/>
-</node>
-<node TEXT="Costing 3" ID="ID_801146927" CREATED="1596448376104" MODIFIED="1596448412640">
-<hook URI="../Pictures/harvesting-costing.png" SIZE="0.46875" NAME="ExternalObject"/>
-</node>
-<node TEXT="Costing 4" ID="ID_904717914" CREATED="1596448430247" MODIFIED="1596448455997">
-<hook URI="../Pictures/total-costing.png" SIZE="0.46875" NAME="ExternalObject"/>
-</node>
+<node TEXT="24 month timeline" ID="ID_1322442313" CREATED="1596448062343" MODIFIED="1648547493021"/>
+<node TEXT="Sample module 1 costing" ID="ID_25264477" CREATED="1596448122863" MODIFIED="1648547495987"/>
+<node TEXT="Costing 2" ID="ID_752493494" CREATED="1596448223339" MODIFIED="1648547498689"/>
+<node TEXT="Costing 3" ID="ID_801146927" CREATED="1596448376104" MODIFIED="1648547501123"/>
+<node TEXT="Costing 4" ID="ID_904717914" CREATED="1596448430247" MODIFIED="1648547503505"/>
 <node TEXT="Note: goat housing, land, and feed sources are not included." ID="ID_347798000" CREATED="1596448193126" MODIFIED="1596448980843"/>
-</node>
-<node TEXT="Todo later: create YT channel" POSITION="right" ID="ID_1140485199" CREATED="1596821501044" MODIFIED="1600959620301">
-<edge COLOR="#007c7c"/>
 </node>
 </node>
 </map>
