@@ -2,8 +2,8 @@
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <node TEXT="Farming Venture Project" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_122968838" CREATED="1596139759857" MODIFIED="1601666471181" VGAP_QUANTITY="3.1 pt">
 <font SIZE="22"/>
-<hook NAME="MapStyle" zoom="0.513">
-    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" fit_to_viewport="false"/>
+<hook NAME="MapStyle" background="#666666" zoom="0.868">
+    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" fit_to_viewport="false" show_icon_for_attributes="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -69,7 +69,7 @@
 <hook NAME="AutomaticEdgeColor" COUNTER="19" RULE="ON_BRANCH_CREATION"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <node TEXT="Farm structure materials" POSITION="right" ID="ID_1677868341" CREATED="1596140919980" MODIFIED="1637924112856" HGAP_QUANTITY="199.24999 pt" VSHIFT_QUANTITY="-313.49999 pt">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_730358520" STARTINCLINATION="1340.24996 pt;-301.49999 pt;" ENDINCLINATION="1473.74996 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_730358520" STARTINCLINATION="1340.24996 pt;-300.74999 pt;" ENDINCLINATION="1473.74996 pt;0 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <edge COLOR="#ff00ff"/>
 <node TEXT="Fencing with local indigenous materials" ID="ID_1709794945" CREATED="1596141226766" MODIFIED="1596184958059"/>
 <node TEXT="Bamboo, wood trees for housing structures" ID="ID_1958061418" CREATED="1596141254242" MODIFIED="1596185152984"/>
