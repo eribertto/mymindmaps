@@ -1,6 +1,6 @@
 <map version="freeplane 1.9.13">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
-<node TEXT="Retirement Plan 2022 (Updated July 22, 2022)" FOLDED="false" ID="ID_729779585" CREATED="1596097124175" MODIFIED="1659065788715" STYLE="bubble">
+<node TEXT="Retirement" FOLDED="false" ID="ID_729779585" CREATED="1596097124175" MODIFIED="1659106508922" STYLE="bubble">
 <font SIZE="18"/>
 <hook NAME="MapStyle" background="#666666">
     <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_icon_for_attributes="true" show_note_icons="true" fit_to_viewport="false"/>
@@ -66,7 +66,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="10" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="17" RULE="ON_BRANCH_CREATION"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <edge COLOR="#ff0000"/>
 <node TEXT="Cars owned" POSITION="right" ID="ID_479178332" CREATED="1596097139637" MODIFIED="1659065544524" STYLE="bubble">
@@ -198,6 +198,27 @@
 <node TEXT="July 30, 2022" ID="ID_1531046669" CREATED="1596100538634" MODIFIED="1659086098765">
 <node TEXT="still employed ksa" ID="ID_620940805" CREATED="1596100548975" MODIFIED="1600961751950"/>
 </node>
+</node>
+<node TEXT="Retirement" POSITION="right" ID="ID_258540046" CREATED="1659106508908" MODIFIED="1659106508918">
+<edge COLOR="#7c7c00"/>
+</node>
+<node TEXT="Plan" POSITION="right" ID="ID_1000903797" CREATED="1659106508926" MODIFIED="1659106508928">
+<edge COLOR="#ff0000"/>
+</node>
+<node TEXT="2022" POSITION="right" ID="ID_747003872" CREATED="1659106508929" MODIFIED="1659106508931">
+<edge COLOR="#0000ff"/>
+</node>
+<node TEXT="(Updated" POSITION="right" ID="ID_726267786" CREATED="1659106508932" MODIFIED="1659106508933">
+<edge COLOR="#00ff00"/>
+</node>
+<node TEXT="July" POSITION="right" ID="ID_139566075" CREATED="1659106508934" MODIFIED="1659106508935">
+<edge COLOR="#ff00ff"/>
+</node>
+<node TEXT="22," POSITION="right" ID="ID_664315939" CREATED="1659106508936" MODIFIED="1659106508937">
+<edge COLOR="#00ffff"/>
+</node>
+<node TEXT="2022)" POSITION="right" ID="ID_543021968" CREATED="1659106508937" MODIFIED="1659106508938">
+<edge COLOR="#7c0000"/>
 </node>
 </node>
 </map>
