@@ -1,6 +1,6 @@
 <map version="freeplane 1.9.13">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
-<node TEXT="Retirement Plan 2021" FOLDED="false" ID="ID_729779585" CREATED="1596097124175" MODIFIED="1596101194826" STYLE="bubble">
+<node TEXT="Retirement Plan 2022 (Updated July 22, 2022)" FOLDED="false" ID="ID_729779585" CREATED="1596097124175" MODIFIED="1659065788715" STYLE="bubble">
 <font SIZE="18"/>
 <hook NAME="MapStyle" background="#666666">
     <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_icon_for_attributes="true" show_note_icons="true" fit_to_viewport="false"/>
@@ -68,26 +68,19 @@
 </hook>
 <hook NAME="AutomaticEdgeColor" COUNTER="10" RULE="ON_BRANCH_CREATION"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
-<node TEXT="Car Loans" POSITION="right" ID="ID_479178332" CREATED="1596097139637" MODIFIED="1596097791768" STYLE="bubble">
 <edge COLOR="#ff0000"/>
-<node TEXT="Toyota Avanza sedan model 2018 variant" ID="ID_1600890139" CREATED="1596097274278" MODIFIED="1596105496825" HGAP_QUANTITY="32 pt" VSHIFT_QUANTITY="-42 pt">
-<icon BUILTIN="100%"/>
-<icon BUILTIN="button_ok"/>
-</node>
+<node TEXT="Cars owned" POSITION="right" ID="ID_479178332" CREATED="1596097139637" MODIFIED="1659065544524" STYLE="bubble">
+<edge COLOR="#ff0000"/>
 <node TEXT="Toyota Hilux Pickup model 2019 variant" ID="ID_1786948639" CREATED="1596097286842" MODIFIED="1597401068623" HGAP_QUANTITY="35 pt" VSHIFT_QUANTITY="-83.25 pt">
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="100%"/>
-<node TEXT="July 30, 2020 balance 1 month last payment due" ID="ID_674925406" CREATED="1596105502098" MODIFIED="1596105540490">
-<node TEXT="August 7: Finish final payment. Loan now for closing" ID="ID_604066147" CREATED="1597400933555" MODIFIED="1597400974209"/>
-<node TEXT="Sept 15: Loan papers cleared in bank" ID="ID_1177119448" CREATED="1600961849673" MODIFIED="1600962024416"/>
-<node TEXT="Todo: get clearance from registry of deeds" ID="ID_779824921" CREATED="1600962025347" MODIFIED="1600962040998"/>
+<node TEXT="Note: this car is debt-free e.g. no more loans payable" ID="ID_674925406" CREATED="1596105502098" MODIFIED="1659065400215"/>
 </node>
 </node>
-</node>
-<node TEXT="Land loans" POSITION="right" ID="ID_452841748" CREATED="1596097165546" MODIFIED="1596097763811" STYLE="bubble">
+<node TEXT="Land property" POSITION="right" ID="ID_452841748" CREATED="1596097165546" MODIFIED="1659065554015" STYLE="bubble">
 <edge COLOR="#0000ff"/>
 <node TEXT="Passi farm land DAR fee land&#xa;ownership transfer" ID="ID_1600957661" CREATED="1596097306423" MODIFIED="1596098014600">
-<node TEXT="Est. amount 150K" ID="ID_753189182" CREATED="1596097612538" MODIFIED="1596098052605">
+<node TEXT="Processing is ongoing with DAR Iloilo &amp; Passi offices" ID="ID_753189182" CREATED="1596097612538" MODIFIED="1659065441210">
 <icon BUILTIN="0%"/>
 </node>
 </node>
@@ -100,25 +93,29 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node TEXT="College fund of kids" POSITION="right" ID="ID_1470817338" CREATED="1596097181027" MODIFIED="1596098200794" STYLE="bubble">
+<node TEXT="College fund of kids" POSITION="right" ID="ID_1470817338" CREATED="1596097181027" MODIFIED="1659065575866" STYLE="bubble">
 <edge COLOR="#00ff00"/>
-<node TEXT="Tata 150K" ID="ID_1956303267" CREATED="1596098203707" MODIFIED="1596098260289">
+<node TEXT="Tata is graduate now cum laude; have 60k in the bank todo: put 100k in her Tonik online bank account" ID="ID_1956303267" CREATED="1596098203707" MODIFIED="1659065211531">
 <icon BUILTIN="0%"/>
 </node>
-<node TEXT="Nonoy 300K" ID="ID_858383185" CREATED="1596098218309" MODIFIED="1596098260293">
-<icon BUILTIN="0%"/>
-</node>
-<node TEXT="Miscellaneous 50K" ID="ID_1608946106" CREATED="1596098238326" MODIFIED="1596098260293">
+<node TEXT="Nonoy is entering 2nd year college, has 100k in his mbt bank account todo: put 100k in his Tonik account" ID="ID_858383185" CREATED="1596098218309" MODIFIED="1659065255481">
 <icon BUILTIN="0%"/>
 </node>
 </node>
 <node TEXT="Emergency Funds" POSITION="right" ID="ID_500766535" CREATED="1596098355541" MODIFIED="1596098362587">
 <edge COLOR="#ff00ff"/>
-<node TEXT="Budget home expenses 2 year&#xa;no income 1M" ID="ID_1198395608" CREATED="1596098364672" MODIFIED="1600961804843"/>
-<node TEXT="Budget capital farming venture 0.5M" ID="ID_250895847" CREATED="1596098426120" MODIFIED="1597414859772">
-<node TEXT="Operating expenses: 0.5M" ID="ID_1439786499" CREATED="1597414831250" MODIFIED="1597414844448"/>
+<node TEXT="Budget home expenses for 2 years" ID="ID_1198395608" CREATED="1596098364672" MODIFIED="1659083176517">
+<node TEXT="40k/mo x 24 = 960k" ID="ID_1193400986" CREATED="1659083149037" MODIFIED="1659083164968"/>
 </node>
-<node TEXT="Medical-related fund 0.5M" ID="ID_1681681515" CREATED="1596098900231" MODIFIED="1597414881404"/>
+<node TEXT="Passi Farm Poultry project" ID="ID_250895847" CREATED="1596098426120" MODIFIED="1659083314822">
+<node TEXT="Farm Development cost 500K" ID="ID_1439786499" CREATED="1597414831250" MODIFIED="1659083366425"/>
+<node TEXT="Poultry Feeds Supplier Capital 500K" ID="ID_1928122066" CREATED="1659083373852" MODIFIED="1659083422521"/>
+<node TEXT="Farm vehicle 500K" ID="ID_221295654" CREATED="1659083435462" MODIFIED="1659083460057">
+<node TEXT="2nd Hand Diesel Utility Truck" ID="ID_776119667" CREATED="1659083466493" MODIFIED="1659083500481"/>
+<node TEXT="Motorcycle sidecar passenger" ID="ID_490482026" CREATED="1659083503282" MODIFIED="1659083537598"/>
+</node>
+</node>
+<node TEXT="Medical-related fund 1M" ID="ID_1681681515" CREATED="1596098900231" MODIFIED="1659083565755"/>
 </node>
 <node TEXT="Physical&#xa;Assets" POSITION="right" ID="ID_9435228" CREATED="1596098583678" MODIFIED="1596100824653">
 <edge COLOR="#00ffff"/>
@@ -127,7 +124,6 @@
 <node TEXT="Lot property Lambuyao" ID="ID_337617194" CREATED="1596098624869" MODIFIED="1596098638242"/>
 <node TEXT="Lot property Sto. Nino Sur, Arevalo" ID="ID_127583127" CREATED="1596098641516" MODIFIED="1596098684690"/>
 <node TEXT="Pickup toyota hilux" ID="ID_1898682531" CREATED="1596098707474" MODIFIED="1596098719427"/>
-<node TEXT="Sedan toyota avanza" ID="ID_799166880" CREATED="1596098720689" MODIFIED="1596098732004"/>
 </node>
 <node TEXT="Intellectual&#xa;Assets" POSITION="right" ID="ID_560018982" CREATED="1596100830507" MODIFIED="1596100844196">
 <edge COLOR="#007c7c"/>
